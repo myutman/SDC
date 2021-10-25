@@ -7,6 +7,7 @@
 
 * **Соберите workspace**
 <pre>SDC/HW1$ catkin_make</pre>
+<pre>SDC/HW1$ source devel/setup.bash</pre>
 
 * **Запустите node с заданием**
 <pre>$ rosrun laser track_laser.py</pre>
