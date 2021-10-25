@@ -10,7 +10,8 @@ theta:0.0
 name:'micheliangelo'"
 </pre>
 * **Соберите workspace**
-<pre>SDC/turtles_ws$ catkin_make</pre>
+<pre>SDC/turtles_ws$ catkin_make
+SDC/turtles_ws$ source devel/setup.bash</pre>
 * **Запустите node с заданием**
 <pre>$ rosrun turtles turtle.py</pre>
 
