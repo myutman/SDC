@@ -6,8 +6,8 @@
 <pre>SDC/HW1$ rviz -d laser.rviz</pre>
 
 * **Соберите workspace**
-<pre>SDC/HW1$ catkin_make</pre>
-<pre>SDC/HW1$ source devel/setup.bash</pre>
+<pre>SDC/HW1$ catkin_make
+SDC/HW1$ source devel/setup.bash</pre>
 
 * **Запустите node с заданием**
 <pre>$ rosrun laser track_laser.py</pre>
